@@ -1,94 +1,77 @@
 # datavis
 
+## 任务准备
+
+1. 环境配置：环境配置好可以直接使用本机或服务器的环境。也可以考虑使用在线的环境已配置好的编辑器，例如Google提供的 [Colab](https://colab.research.google.com/)
+
+2. 每次Task的**技术总结**，**代码文件**存放在对应的文件夹中。
+
+   - 文件命名推荐以 [ 昵称_文件名 ] 命名，例如 `Alice_task01report.md`，`Alice_task01code.ipynb`
+
+   - 技术总结可以包含遇到的问题，对应的解答，学习体会等。这里是Datawhale提供的一些打卡示范
+
+     - [https://mp.weixin.qq.com/s/IOlHIEIQhuIaubTeP4o39w](https://mp.weixin.qq.com/s/IOlHIEIQhuIaubTeP4o39w)
+
+     - [https://mp.weixin.qq.com/s/wxUVHapEiPUV2LSBbEu5-g](https://mp.weixin.qq.com/s/wxUVHapEiPUV2LSBbEu5-g)
+     - [https://mp.weixin.qq.com/s/cXSRcMk_0t8RxSaKb0sHww](https://mp.weixin.qq.com/s/cXSRcMk_0t8RxSaKb0sHww)
+     - [https://mp.weixin.qq.com/s/fsT6rzpL5cuzh2usNjzzbA](https://mp.weixin.qq.com/s/fsT6rzpL5cuzh2usNjzzbA)
+
+3. 技术总结可以推荐提交`markdown`文件，代码文件可以提交`.py`文件或者`.ipynb`文件
+
 ## 学习任务
 
-### Task00：熟悉规则（1天）
+### **Task00**：熟悉规则（**1**天）
 
 - 打卡截止：12月13日 23:59
 - 开源内容：无
-- 打卡链接：[https://shimo.im/forms/6RzI8WqZVjksJ6RB/fill 58](https://shimo.im/forms/6RzI8WqZVjksJ6RB/fill)
-- 打卡结果：[https://shimo.im/sheets/L9kBM22DLvhpQNqK/MODOC/ 29](https://shimo.im/sheets/L9kBM22DLvhpQNqK/MODOC/)
+- 打卡链接：https://shimo.im/forms/kaJIpDkd2hIJ87Kc/fill
+- 打卡结果：https://shimo.im/sheets/913JV77Ob1sYG73E/MODOC/
 
-### Task01：预备知识（3天）
+### **Task01**：**Matplotlib**初相识（**1**天）
 
-- 打卡截止：12月16日23:59
-- 开源内容：[https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch1.html 50](https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch1.html)
-- 打卡链接：[https://shimo.im/forms/xE9QnZGE0y8zhcmC/fill 10](https://shimo.im/forms/xE9QnZGE0y8zhcmC/fill)
-- 打卡结果：[https://shimo.im/sheets/gXqmevv7PxhbwKqo/MODOC/ 2](https://shimo.im/sheets/gXqmevv7PxhbwKqo/MODOC/)
+- 打卡截止：12月14日23:59
+- 开源内容：[Task01 - Matplotlib初相识](http://datawhale.club/t/topic/538)
+- 打卡链接：https://shimo.im/forms/qFdiesyuvR4qcTQp/fill
+- 打卡结果：https://shimo.im/sheets/e1Az477xK0ULZDqW/MODOC/
 
-### Task02：Pandas基础（3天）
+### **Task02**：艺术画笔见乾坤（**4**天）
 
-- 打卡截止：12月19日23:59
-- 开源内容：[https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch2.html 11](https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch2.html)
-- 打卡链接：[https://shimo.im/forms/pkcSQkUYy0Ek6lAD/fill 3](https://shimo.im/forms/pkcSQkUYy0Ek6lAD/fill)
-- 打卡结果：https://shimo.im/sheets/m5kv9bbXrosvBxqX/MODOC/
+- 打卡截止：12月18日23:59
+- 开源内容：[Task02 - 艺术画笔见乾坤](http://datawhale.club/t/topic/545)
+- 打卡链接：https://shimo.im/forms/KUU6apFggxUCw25S/fill
+- 打卡结果：https://shimo.im/sheets/gXqmevvE77fg9Wqo/MODOC/
 
-### Task03：索引（3天）
+### **Task03**：布局格式定方圆（**2**天）
+
+- 打卡截止：12月20日23:59
+- 开源内容：[Task03 - 布局格式定方圆](http://datawhale.club/t/topic/542)
+- 打卡链接：https://shimo.im/forms/9beSYAYHDLY4klPA/fill
+- 打卡结果：https://shimo.im/sheets/R13j8bb5vOTKjk5y/MODOC/
+
+### **Task04**：文字图例尽眉目（**2**天）
 
 - 打卡截止：12月22日23:59
-- 开源内容：[https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch3.html 2](https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch3.html)
-- 打卡链接：https://shimo.im/forms/iNmwHEkRpE4DGeRZ/fill
-- 打卡结果：[https://shimo.im/sheets/1d3aVvvOlmsLwdqg/MODOC/ 1](https://shimo.im/sheets/1d3aVvvOlmsLwdqg/MODOC/)
+- 开源内容：[Task04 - 文字图例尽眉目](http://datawhale.club/t/topic/543)
+- 打卡链接：https://shimo.im/forms/q3jMnncLbBgAS9Cs/fill
+- 打卡结果：https://shimo.im/sheets/vVqRV22OgPf2l2qy/MODOC/
 
-### Task04：分组（3天）
+### **Task05**：样式色彩秀芳华（**2**天）
 
-- 打卡截止：12月25日23:59
-- 开源内容：[https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch4.html 4](https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch4.html)
-- 打卡链接：https://shimo.im/forms/Lga1jAQf7ucTVtTD/fill
-- 打卡结果：https://shimo.im/sheets/pmkxQbbrYvco5EAN/MODOC/
+- 打卡截止：12月24日23:59
+- 开源内容：[Task05 - 样式色彩秀芳华](http://datawhale.club/t/topic/544)
+- 打卡链接：https://shimo.im/forms/679E7A3bWxUy8HS8/fill
+- 打卡结果：https://shimo.im/sheets/dPkpKbbWy7cBe0qO/MODOC/
 
-### Task05：变形（2天）
+### **Task06**：场景案例显神通（**3**天）
 
 - 打卡截止：12月27日23:59
-- 开源内容：[https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch5.html 2](https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch5.html)
-- 打卡链接：[https://shimo.im/forms/dOuEtDV0uDUwYZVz/fill 1](https://shimo.im/forms/dOuEtDV0uDUwYZVz/fill)
-- 打卡结果：https://shimo.im/sheets/loqeW00omjsLKlAn/MODOC/
-
-### Task06：连接（2天）
-
-- 打卡截止：12月29日23:59
-- 开源内容：https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch6.html
-- 打卡链接：[https://shimo.im/forms/tfkKbOhVdxAHhkP1/fill 1](https://shimo.im/forms/tfkKbOhVdxAHhkP1/fill)
-- 打卡结果：[https://shimo.im/sheets/Ee32M2267VcrL9A2/MODOC/ 1](https://shimo.im/sheets/Ee32M2267VcrL9A2/MODOC/)
-
-### Task07：缺失数据（2天）
-
-- 打卡截止：12月31日23:59
-- 开源内容：[https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch7.html 2](https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch7.html)
-- 打卡链接：[https://shimo.im/forms/xEQEFWujpA4MrpmF/fill 3](https://shimo.im/forms/xEQEFWujpA4MrpmF/fill)
-- 打卡结果：https://shimo.im/sheets/Wr3DVeeYeYf57zkJ/MODOC/
-
-### Task08：文本数据（3天）
-
-- 打卡截止：01月03日23:59
-- 开源内容：[https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch8.html 2](https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch8.html)
-- 打卡链接：[https://shimo.im/forms/bAdi5S3NbTA02Wtp/fill 1](https://shimo.im/forms/bAdi5S3NbTA02Wtp/fill)
-- 打卡结果：https://shimo.im/sheets/dPkpKbbZb4UP0NqO/MODOC/
-
-### Task09：分类数据（1天）
-
-- 打卡截止：01月04日23:59
-- 开源内容：[https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch9.html 2](https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch9.html)
-- 打卡链接：https://shimo.im/forms/sbKu5AmOihctXDYe/fill
-- 打卡结果：https://shimo.im/sheets/m5kv9bbXJmHDMOqX/MODOC/
-
-### Task10：时序数据（3天）
-
-- 打卡截止：01月07日23:59
-- 开源内容：[https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch10.html 4](https://datawhalechina.github.io/joyful-pandas/build/html/目录/ch10.html)
-- 打卡链接：[https://shimo.im/forms/xUG16t20ZSENi2Gm/fill 2](https://shimo.im/forms/xUG16t20ZSENi2Gm/fill)
-- 打卡结果：https://shimo.im/sheets/5rk9dEEg9yUYX6qx/MODOC/
-
-### Task11：综合练习（2天）
-
-- 打卡截止：01月09日23:59
-- 开源内容：01月07日发布题目
-- 打卡链接：[https://shimo.im/forms/ArtEIPdxKlARTWfa/fill 1](https://shimo.im/forms/ArtEIPdxKlARTWfa/fill)
-- 打卡结果：https://shimo.im/sheets/m4kMLZZQQrhpB6qD/MODOC/
+- 开源内容：[Task06 - 场景案例显神通](http://datawhale.club/t/topic/546)
+- 打卡链接：https://shimo.im/forms/jenooaB8AJgU9keW/fill
+- 打卡结果：https://shimo.im/sheets/gXqmevvEQ2IZweqo/MODOC/
 
 ## 关于打卡
 
-打卡内容介绍：打卡，即任选CSDN、Github、简书、B站等平台，将自己的学习体会，输出成【学习分享】后，将分享的链接，填至问卷的 “打卡链接” 中相应的位置。
+打卡内容介绍：打卡，即任选CSDN、Github、简书、B站等平台，将自己的学习体会，输出成【学习分享】后，将分享的链接，填至问卷的 **“打卡链接"** 中相应的位置。
 
 打卡要求：
 
