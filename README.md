@@ -11,12 +11,11 @@
    - 技术总结可以包含遇到的问题，对应的解答，学习体会等。这里是Datawhale提供的一些打卡示范
 
      - [https://mp.weixin.qq.com/s/IOlHIEIQhuIaubTeP4o39w](https://mp.weixin.qq.com/s/IOlHIEIQhuIaubTeP4o39w)
-
      - [https://mp.weixin.qq.com/s/wxUVHapEiPUV2LSBbEu5-g](https://mp.weixin.qq.com/s/wxUVHapEiPUV2LSBbEu5-g)
      - [https://mp.weixin.qq.com/s/cXSRcMk_0t8RxSaKb0sHww](https://mp.weixin.qq.com/s/cXSRcMk_0t8RxSaKb0sHww)
      - [https://mp.weixin.qq.com/s/fsT6rzpL5cuzh2usNjzzbA](https://mp.weixin.qq.com/s/fsT6rzpL5cuzh2usNjzzbA)
 
-3. 技术总结可以推荐提交`markdown`文件，代码文件可以提交`.py`文件或者`.ipynb`文件
+3. 技术总结推荐提交`markdown`文件，代码文件推荐提交`.py`文件或者`.ipynb`文件
 
 ## 学习任务
 
