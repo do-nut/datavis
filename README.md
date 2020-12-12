@@ -2,7 +2,7 @@
 
 ## 任务准备
 
-1. 环境配置：环境配置好可以直接使用本机或服务器的环境。也可以考虑使用在线已配置好的环境，例如Google提供的 [Colab](https://colab.research.google.com/)
+1. 环境配置：可以直接使用本机或服务器的环境。也可以考虑使用在线已配置好的环境，例如Google提供的 [Colab](https://colab.research.google.com/)
 
 2. 每次Task的**技术总结**，**代码文件**存放在对应的文件夹中。
 
